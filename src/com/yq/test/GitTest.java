@@ -12,4 +12,8 @@ public class GitTest {
     void get(){
         System.out.println("jhgkjfhgkfdhkgh");
     }
+
+    void set(){
+        System.out.println("第三次提交");
+    }
 }
